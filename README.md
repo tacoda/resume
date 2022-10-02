@@ -10,42 +10,33 @@
 
 # Work Experience
 
-### Covermymeds
+**Software Engineer at CoverMyMeds**
 
 _Feb 2019 - Present_
 
-**Software Engineer**
-
 - Pivotal in new team formation
+- Involved in code work and ongoing education with Docker and Kubernetes
 - **Security Working Group** Contributed to security policies
 
-### MenuDrive
+---
+
+**Web Developer at MenuDrive**
 
 _Apr 2015 - Feb 2019_
-
-**Web Developer**
 
 - Implemented an agile development process
 - Converted a legacy website into a modern framework
 - Migrated small system components into AWS
+- Led efforts for PCI compliance
 
 # Projects
 
-**[Freight Train](https://github.com/tacoda/freight-train)**
-
-> A configurable, fully-featured web server.
-
-**[wl](https://github.com/tacoda/wl)**
-
-> A Whois Lookup command line tool.
-
-**[Jaws](https://github.com/tacoda/jaws)**
-
-> A command line tool to manage AWS resources and tasks.
-
-**[Flix](https://github.com/tacoda/flix)**
-
-> A movie information and rating web application.
+| Project | Description | Technology |
+|---------|-------------|------------|
+| **[Freight Train](https://github.com/tacoda/freight-train)** | A configurable, fully-featured web server. | _Rust_ |
+| **[wl](https://github.com/tacoda/wl)** | A Whois Lookup command line tool. | _Rust_ |
+| **[Jaws](https://github.com/tacoda/jaws)** | A command line tool to manage AWS resources and tasks. | _Rust_ |
+| **[Flix](https://github.com/tacoda/flix)** | A movie information and rating web application. | _Ruby on Rails, React_ |
 
 ## How Can I Help Your Organization?
 
