@@ -37,6 +37,7 @@ _Apr 2015 - Feb 2019_
 | Project | Description | Technology |
 |---------|-------------|------------|
 | **[Freight Train](https://github.com/tacoda/freight-train)** | A configurable, fully-featured web server. | _Rust_ |
+| **[Reap](https://github.com/tacoda/reap)** | An HTTP request command line tool. | _Rust_ |
 | **[wl](https://github.com/tacoda/wl)** | A Whois Lookup command line tool. | _Rust_ |
 | **[Jaws](https://github.com/tacoda/jaws)** | A command line tool to manage AWS resources and tasks. | _Rust_ |
 | **[Flix](https://github.com/tacoda/flix)** | A movie information and rating web application. | _Ruby on Rails, React_ |
