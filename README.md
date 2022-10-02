@@ -67,10 +67,6 @@ I like interactive organizational roles and I enjoy working with people and usin
 
 I strive to be flexible and I promote a team approach. To overcome problems, I look for choices, discuss options and try to find a positive way out. I am motivated to anticipate potential problems and prepare for action. When making decisions, I guard against being surprised, build a strategy, and commit myself to a doable outcome. My confidence is increased by dialog to develop a reasonable position.
 
-**What Skills Do I Have?**
-
-I have worked with many different languages and paradigms and a variety of web technologies. I have worked extensively with Linux systems, as well as several different cloud platforms. I am very comfortable working with operational tools, security tools, databases, caches, and other services.
-
 **What Tools Have I Worked With?**
 
 I have worked with many different languages and paradigms.
@@ -94,6 +90,15 @@ I am very comfortable working with operational tools, databases, caches, and oth
 > Apache, Nginx, MySQL, MariaDB, PostgreSQL, Memcached, Redis, Sidekiq, Docker, Kubernetes, Consul, Nix, Datadog, Grafana, Sentry, Splunk
 
 
+## Skills
+
+## Education
+
+**Shippenburg University**
+
+_2014_
+
+B.S. in Mathematics
 ---
 
 [Contact Me](mailto:tacoda@hey.com)
