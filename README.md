@@ -1,3 +1,5 @@
+![Ian Johnson](https://avatars.githubusercontent.com/u/39019266?v=4)
+
 # Ian Johnson
 
 > 🥞 Senior Full Stack Web Engineer
