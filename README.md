@@ -73,7 +73,26 @@ I have worked with many different languages and paradigms and a variety of web t
 
 **What Tools Have I Worked With?**
 
-I have worked with many different tools, including:
+I have worked with many different languages and paradigms.
+
+> Ruby, Rust, Python, PHP, JavaScript, CoffeeScript, TypeScript, Elixir, Clojure, Scheme, Bash
+
+I have worked with a variety of web technologies.
+
+> NodeJS, Express, Rails, Flask, Laravel, Actix, Rocket, Phoenix, OTP, React, LiveView, Elm, Vue, Svelte, Bootstrap, Bulma, Tailwind, Sass
+
+I have worked extensively with Linux systems.
+
+> Debian, Ubuntu, Fedora, CentOS
+
+I have worked with several different cloud platforms.
+
+> AWS, Azure, GCP, Gigalixir, Heroku, Render, Terraform
+
+I am very comfortable working with operational tools, databases, caches, and other services.
+
+> Apache, Nginx, MySQL, MariaDB, PostgreSQL, Memcached, Redis, Sidekiq, Docker, Kubernetes, Consul, Nix, Datadog, Grafana, Sentry, Splunk
+
 
 ---
 
