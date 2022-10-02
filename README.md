@@ -8,7 +8,7 @@
 
 [Contact Me](mailto:tacoda@hey.com)
 
-# Work Experience
+## Work Experience
 
 **Software Engineer at CoverMyMeds**
 
@@ -16,7 +16,10 @@ _Feb 2019 - Present_
 
 - Pivotal in new team formation
 - Involved in code work and ongoing education with Docker and Kubernetes
-- **Security Working Group** Contributed to security policies
+- Member of the **Security Working Group** 
+  - Contributed to security policies
+  - Prioritized security work
+  - Ensured time-sensitive work was completed on time
 
 ---
 
@@ -29,7 +32,7 @@ _Apr 2015 - Feb 2019_
 - Migrated small system components into AWS
 - Led efforts for PCI compliance
 
-# Projects
+## Projects
 
 | Project | Description | Technology |
 |---------|-------------|------------|
