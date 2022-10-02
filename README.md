@@ -71,11 +71,13 @@ I strive to be flexible and I promote a team approach. To overcome problems, I l
 
 I have worked with many different languages and paradigms.
 
-> Ruby, Rust, Python, PHP, JavaScript, CoffeeScript, TypeScript, Elixir, Clojure, Scheme, Bash
+> Ruby, Rust, Python, PHP, JavaScript, CoffeeScript, TypeScript, Elixir, Clojure, Scheme, Bash, Java, C
 
 I have worked with a variety of web technologies.
 
-> NodeJS, Express, Rails, Flask, Laravel, Actix, Rocket, Phoenix, OTP, React, LiveView, Elm, Vue, Svelte, Bootstrap, Bulma, Tailwind, Sass
+> NodeJS, Rails, Laravel, Actix, Rocket, Phoenix, OTP,
+>
+> React, LiveView, Elm, Vue, Svelte, Bootstrap, Bulma, Tailwind, Sass
 
 I have worked extensively with Linux systems.
 
@@ -87,20 +89,22 @@ I have worked with several different cloud platforms.
 
 I am very comfortable working with operational tools, databases, caches, and other services.
 
-> Apache, Nginx, MySQL, MariaDB, PostgreSQL, Memcached, Redis, Sidekiq, Docker, Kubernetes, Consul, Nix, Datadog, Grafana, Sentry, Splunk
+> Apache, Nginx, MySQL, MariaDB, PostgreSQL, Redis, Sidekiq, Docker, Kubernetes, Nix, Datadog, Grafana, Sentry, Splunk
 
 
 ## Skills
 
 - Test-driven development
+- Object-oriented programming
+- Functional programming
 
 ## Education
 
 **Shippenburg University**
 
-_2014_
+Bachelor of Science in _Mathematics_
 
-Bachelor of Science in Mathematics
+_2014_
 
 ---
 
