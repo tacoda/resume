@@ -1,4 +1,4 @@
-![Ian Johnson](https://avatars.githubusercontent.com/u/39019266?v=4)
+![Ian Johnson](https://avatars.githubusercontent.com/u/39019266)
 
 # Ian Johnson
 
