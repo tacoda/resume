@@ -20,9 +20,11 @@
 
 # Projects
 
-### [`wl`](https://github.com/tacoda/wl)
+### [wl](https://github.com/tacoda/wl)
 
-### [`jaws`](https://github.com/tacoda/jaws)
+### [Jaws](https://github.com/tacoda/jaws)
+
+### [Flix](https://github.com/tacoda/flix)
 
 ## How Can I Help Your Organization?
 
