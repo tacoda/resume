@@ -12,15 +12,28 @@
 
 ### Covermymeds
 
+_Feb 2019 - Present_
+
 **Software Engineer**
+
+- Pivotal in new team formation
+- **Security Working Group** Contributed to security policies
 
 ### MenuDrive
 
+_Apr 2015 - Feb 2019_
+
 **Web Developer**
+
+- Implemented an agile development process
+- Converted a legacy website into a modern framework
+- Migrated small system components into AWS
 
 # Projects
 
-### [wl](https://github.com/tacoda/wl)
+**[wl](https://github.com/tacoda/wl)**
+
+> Whois Lookup Tool
 
 ### [Jaws](https://github.com/tacoda/jaws)
 
