@@ -46,6 +46,12 @@ _Apr 2015 - Feb 2019_
 
 ## Open Source
 
+Open Source projects that I have contributed to:
+
+- [fd](https://github.com/sharkdp/fd)
+- [Ockam](https://github.com/build-trust/ockam)
+- [ShellRB](https://github.com/faraazahmad/shellrb)
+- [CASA](https://github.com/rubyforgood/casa)
 
 ## Value Proposition
 
@@ -62,6 +68,10 @@ I strive to be flexible and I promote a team approach. To overcome problems, I l
 **What Skills Do I Have?**
 
 I have worked with many different languages and paradigms and a variety of web technologies. I have worked extensively with Linux systems, as well as several different cloud platforms. I am very comfortable working with operational tools, security tools, databases, caches, and other services.
+
+**What Tools Have I Worked With?**
+
+I have worked with many different tools, including:
 
 ---
 
