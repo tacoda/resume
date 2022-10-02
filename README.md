@@ -1,18 +1,28 @@
 # Ian Johnson
 
+> 🥞 Senior Full Stack Web Engineer
+>
+> 🕵️ Application Security Engineer
+>
+> 📖 Open Source Contributor
+
 [Contact Me](mailto:tacoda@hey.com)
 
 # Work Experience
 
 ### Covermymeds
 
+**Software Engineer**
+
 ### MenuDrive
+
+**Web Developer**
 
 # Projects
 
-### `wl`
+### [`wl`](https://github.com/tacoda/wl)
 
-### `jaws`
+### [`jaws`](https://github.com/tacoda/jaws)
 
 ## How Can I Help Your Organization?
 
