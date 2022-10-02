@@ -31,13 +31,21 @@ _Apr 2015 - Feb 2019_
 
 # Projects
 
+**[Freight Train](https://github.com/tacoda/freight-train)**
+
+> A configurable, fully-featured web server.
+
 **[wl](https://github.com/tacoda/wl)**
 
-> Whois Lookup Tool
+> A Whois Lookup command line tool.
 
-### [Jaws](https://github.com/tacoda/jaws)
+**[Jaws](https://github.com/tacoda/jaws)**
 
-### [Flix](https://github.com/tacoda/flix)
+> A command line tool to manage AWS resources and tasks.
+
+**[Flix](https://github.com/tacoda/flix)**
+
+> A movie information and rating web application.
 
 ## How Can I Help Your Organization?
 
