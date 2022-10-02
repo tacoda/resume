@@ -34,13 +34,15 @@ _Apr 2015 - Feb 2019_
 
 ## Projects
 
-| Project | Description | Technology |
-|---------|-------------|------------|
-| **[Freight Train](https://github.com/tacoda/freight-train)** | A configurable, fully-featured web server. | _Rust_ |
-| **[Reap](https://github.com/tacoda/reap)** | An HTTP request command line tool. | _Rust_ |
-| **[wl](https://github.com/tacoda/wl)** | A Whois Lookup command line tool. | _Rust_ |
-| **[Jaws](https://github.com/tacoda/jaws)** | A command line tool to manage AWS resources and tasks. | _Rust_ |
-| **[Flix](https://github.com/tacoda/flix)** | A movie information and rating web application. | _Ruby on Rails, React_ |
+| Project | Description | Technology | Completion |
+|---------|-------------|------------|------------|
+| **[Freight Train](https://github.com/tacoda/freight-train)** | A configurable, fully-featured web server. | _Rust_ | 25% |
+| **[Reap](https://github.com/tacoda/reap)** | An HTTP request command line tool. | _Rust_ | 0% |
+| **[wl](https://github.com/tacoda/wl)** | A Whois Lookup command line tool. | _Rust_ | 90% |
+| **[Jaws](https://github.com/tacoda/jaws)** | A command line tool to manage AWS resources and tasks. | _Rust_ | 10% |
+| **[Flix](https://github.com/tacoda/flix)** | A movie information and rating web application. | _Ruby on Rails, React_ | 90% |
+| **[Roarum](https://github.com/tacoda/roarum)** | A web forum application. | _Ruby on Rails, React_ | 10% |
+| **[Hodor](https://github.com/tacoda/hodor)** | A hotel management web application. | _Ruby on Rails, React_ | 0% |
 
 ## Open Source
 
