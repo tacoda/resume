@@ -92,13 +92,16 @@ I am very comfortable working with operational tools, databases, caches, and oth
 
 ## Skills
 
+- Test-driven development
+
 ## Education
 
 **Shippenburg University**
 
 _2014_
 
-B.S. in Mathematics
+Bachelor of Science in Mathematics
+
 ---
 
 [Contact Me](mailto:tacoda@hey.com)
