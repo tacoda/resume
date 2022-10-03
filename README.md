@@ -100,7 +100,7 @@ I am very comfortable working with operational tools, databases, caches, and oth
 
 ## Education
 
-**Shippenburg University**
+**Shippensburg University**
 
 Bachelor of Science in _Mathematics_
 
